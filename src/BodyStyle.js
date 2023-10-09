@@ -59,6 +59,7 @@ export const Button = styled.button`
         width: 70vw;
         margin-top: 10vh;
         margin-left: 15%;
+        font-size: 18;
 }
 `
 
@@ -71,15 +72,15 @@ export const Ul = styled.ul`
     margin-top: 32vh;
     @media (max-width: 500px) {
         margin-top: 10vh;
-        margin-left: 25%;
-        width: 50vw;
+        width: 100vw;
+        border: solid;
 }   
 `
 
 export const IImg = styled.img`
     height: 5vh;
     @media (max-width: 500px) {
-        height: 7vh;
+        height: 6vh;
 }
 `
 
