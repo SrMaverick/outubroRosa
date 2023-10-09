@@ -59,7 +59,7 @@ export const Button = styled.button`
         width: 70vw;
         margin-top: 10vh;
         margin-left: 15%;
-        font-size: 18;
+        font-size: 18px;
 }
 `
 
