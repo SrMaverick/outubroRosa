@@ -73,7 +73,6 @@ export const Ul = styled.ul`
     @media (max-width: 500px) {
         margin-top: 10vh;
         width: 100vw;
-        border: solid;
 }   
 `
 
